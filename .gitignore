@@ -1,0 +1,7 @@
+.idea/
+.pytest_cache/
+.vagrant/
+py/.idea/
+py/.pytest_cache/
+py/.venv/
+py/__pycache__/
